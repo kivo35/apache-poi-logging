@@ -17,7 +17,6 @@ local.properties
 
 # Eclipse Core
 .project
-src/*
 target/*
 test-output/*
 
